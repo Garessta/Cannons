@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Frame" style="height: 281px;">
+        <ui:Button text="Button" display-tooltip-when-elided="true" name="Button" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="Label" style="-unity-text-align: upper-left;" />
+    </ui:VisualElement>
+</ui:UXML>
